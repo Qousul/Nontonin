@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Nontonin/static/css/main.3292250f.css",
-    "main.js": "/Nontonin/static/js/main.3914db14.js",
+    "main.js": "/Nontonin/static/js/main.c786c869.js",
     "index.html": "/Nontonin/index.html",
     "static/media/search.svg": "/Nontonin/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.3292250f.css.map": "/Nontonin/static/css/main.3292250f.css.map",
-    "main.3914db14.js.map": "/Nontonin/static/js/main.3914db14.js.map"
+    "main.c786c869.js.map": "/Nontonin/static/js/main.c786c869.js.map"
   },
   "entrypoints": [
     "static/css/main.3292250f.css",
-    "static/js/main.3914db14.js"
+    "static/js/main.c786c869.js"
   ]
 }
